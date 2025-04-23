@@ -101,6 +101,5 @@ ENV/
 .mypy_cache/
 
 .idea/
-*.svg
 .qodo
 .DS_Store
